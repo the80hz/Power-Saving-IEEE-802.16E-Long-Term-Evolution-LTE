@@ -3,4 +3,4 @@ Authors:
 
 Volgov Daniil Ivanovich
 
-Panyushkin Andrey Mikhailovich
+Panyshkin Andrey Mikhailovich
