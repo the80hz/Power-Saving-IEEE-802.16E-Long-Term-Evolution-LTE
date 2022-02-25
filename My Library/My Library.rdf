@@ -124,6 +124,7 @@
             </rdf:Seq>
         </bib:authors>
         <dcterms:isReferencedBy rdf:resource="#item_74"/>
+        <link:link rdf:resource="#item_121"/>
         <dc:subject>powersaving</dc:subject>
         <dc:subject>lte</dc:subject>
         <dc:subject>fixdrx</dc:subject>
@@ -149,6 +150,12 @@
     <bib:Memo rdf:about="#item_74">
         <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #212529; font-family: Roboto, sans-serif; font-size: 14.4px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f5f8fa; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Стандарт G Long Term Evolution LTE был разработан для широкополосного мобильного доступа для современных приложений с большим объемом данных, что, следовательно, обеспечивает лучший опыт для конечного пользователя.&lt;/span&gt;&lt;/p&gt;</rdf:value>
     </bib:Memo>
+    <z:Attachment rdf:about="#item_121">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/121/Fowler et al. - 2012 - Analysis of adjustable and fixed DRX mechanism for.pdf"/>
+        <dc:title>Fowler et al. - 2012 - Analysis of adjustable and fixed DRX mechanism for.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
     <bib:Article rdf:about="#item_75">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
@@ -183,6 +190,7 @@
             </rdf:Seq>
         </bib:authors>
         <dcterms:isReferencedBy rdf:resource="#item_76"/>
+        <link:link rdf:resource="#item_122"/>
         <dc:subject>lteadvanced</dc:subject>
         <dc:subject>energy</dc:subject>
         <dc:subject>3gpp</dc:subject>
@@ -196,6 +204,12 @@
     <bib:Memo rdf:about="#item_76">
         <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #212529; font-family: Roboto, sans-serif; font-size: 14.4px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f5f8fa; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;В целях экономии энергии и максимального срока службы батареи без подзарядки мобильных устройств с батарейным питанием любой стандарт сотовой связи G определяет режим энергосбережения.&lt;/span&gt;&lt;/p&gt;</rdf:value>
     </bib:Memo>
+    <z:Attachment rdf:about="#item_122">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/122/Anisimov et al. - Energy Efﬁcient Operation of 3GPP LTE-Advanced and.pdf"/>
+        <dc:title>Anisimov et al. - Energy Efﬁcient Operation of 3GPP LTE-Advanced and.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
     <rdf:Description rdf:about="urn:isbn:978-1-4673-1363-6%20978-1-4673-1361-2%20978-1-4673-1362-9">
         <z:itemType>conferencePaper</z:itemType>
         <dcterms:isPartOf>
@@ -235,6 +249,7 @@
             </rdf:Seq>
         </bib:authors>
         <dcterms:isReferencedBy rdf:resource="#item_78"/>
+        <link:link rdf:resource="#item_123"/>
         <dc:subject>powersaving</dc:subject>
         <dc:subject>lte</dc:subject>
         <dc:subject>energydelay</dc:subject>
@@ -259,6 +274,12 @@
     <bib:Memo rdf:about="#item_78">
         <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #212529; font-family: Roboto, sans-serif; font-size: 14.4px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f5f8fa; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Мы анализируем PSM в отношении энергопотребления и задержки буферизации и характеризуем их как простую кривую компромисса между затратами энергии EDT в соответствии с рабочими параметрами&lt;/span&gt;&lt;/p&gt;</rdf:value>
     </bib:Memo>
+    <z:Attachment rdf:about="#item_123">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/123/Wonjae Shin et al. - 2013 - Energy-delay tradeoff analysis and enhancement in .pdf"/>
+        <dc:title>Wonjae Shin et al. - 2013 - Energy-delay tradeoff analysis and enhancement in .pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
     <bib:Article rdf:about="http://link.springer.com/10.1007/s11277-014-1614-5">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf rdf:resource="urn:issn:0929-6212,%201572-834X"/>
@@ -291,6 +312,7 @@
             </rdf:Seq>
         </bib:authors>
         <dcterms:isReferencedBy rdf:resource="#item_80"/>
+        <link:link rdf:resource="#item_124"/>
         <dc:subject>powersaving</dc:subject>
         <dc:subject>ieee802.16j</dc:subject>
         <dc:subject>networks</dc:subject>
@@ -319,6 +341,12 @@
     <bib:Memo rdf:about="#item_80">
         <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #212529; font-family: Roboto, sans-serif; font-size: 14.4px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f5f8fa; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Имитационное исследование показывает, что предлагаемые схемы LBPS значительно превосходят стандартные PSC типа I с точки зрения эффективности энергосбережения&lt;/span&gt;&lt;/p&gt;</rdf:value>
     </bib:Memo>
+    <z:Attachment rdf:about="#item_124">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/124/Yang et al. - 2014 - Load-Based Power Saving in IEEE 802.16j Multi-Hop .pdf"/>
+        <dc:title>Yang et al. - 2014 - Load-Based Power Saving in IEEE 802.16j Multi-Hop .pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
     <bib:Book rdf:about="#item_81">
         <z:itemType>book</z:itemType>
         <bib:authors>
@@ -345,6 +373,7 @@
         </bib:authors>
         <dcterms:isReferencedBy rdf:resource="#item_82"/>
         <link:link rdf:resource="#item_83"/>
+        <link:link rdf:resource="#item_125"/>
         <dc:subject>802.16e</dc:subject>
         <dc:subject>comptech</dc:subject>
         <dc:title>COMPENSATION THE NOISY CHANNEL OF 802.16E SYSTEM IN DOWNLINK USING CoMP TECHNIQUE</dc:title>
@@ -365,6 +394,12 @@
         </dc:identifier>
         <dcterms:dateSubmitted>2022-02-24 08:06:18</dcterms:dateSubmitted>
         <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_125">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/125/Alsharbaty et al. - 2020 - COMPENSATION THE NOISY CHANNEL OF 802.16E SYSTEM I.pdf"/>
+        <dc:title>Alsharbaty et al. - 2020 - COMPENSATION THE NOISY CHANNEL OF 802.16E SYSTEM I.pdf</dc:title>
+        <link:type>application/pdf</link:type>
     </z:Attachment>
     <bib:Article rdf:about="http://ieeexplore.ieee.org/document/7123569/">
         <z:itemType>journalArticle</z:itemType>
@@ -398,6 +433,7 @@
             </rdf:Seq>
         </bib:authors>
         <dcterms:isReferencedBy rdf:resource="#item_85"/>
+        <link:link rdf:resource="#item_127"/>
         <dc:subject>ltea</dc:subject>
         <dc:subject>powereff</dc:subject>
         <dc:subject>deliverymethod</dc:subject>
@@ -426,6 +462,12 @@
     <bib:Memo rdf:about="#item_85">
         <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #212529; font-family: Roboto, sans-serif; font-size: 14.4px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f5f8fa; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;QEPEM измеряет QoE пользователя и обратную связь с eNodeB для принятия решений о планировании наряду с другими важными параметрами.&lt;/span&gt;&lt;/p&gt;</rdf:value>
     </bib:Memo>
+    <z:Attachment rdf:about="#item_127">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/127/Mushtaq et al. - 2016 - QoE Power-Efficient Multimedia Delivery Method for.pdf"/>
+        <dc:title>Mushtaq et al. - 2016 - QoE Power-Efficient Multimedia Delivery Method for.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
     <bib:Article rdf:about="#item_87">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
@@ -450,6 +492,7 @@
             </rdf:Seq>
         </bib:authors>
         <dcterms:isReferencedBy rdf:resource="#item_88"/>
+        <link:link rdf:resource="#item_126"/>
         <dc:subject>problems</dc:subject>
         <dc:subject>balance</dc:subject>
         <dc:subject>ltea</dc:subject>
@@ -464,6 +507,12 @@
     <bib:Memo rdf:about="#item_88">
         <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #212529; font-family: Roboto, sans-serif; font-size: 14.4px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f5f8fa; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Неотерическая эволюция long term evolution LTE помогла нам достичь скорости передачи данных до Гбит с, но за счет нехватки энергии среди пользовательского оборудования UE &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</rdf:value>
     </bib:Memo>
+    <z:Attachment rdf:about="#item_126">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/126/Bhattacharyya and Singh - 2017 - Formulating an Optimization Problem by Balancing T.pdf"/>
+        <dc:title>Bhattacharyya and Singh - 2017 - Formulating an Optimization Problem by Balancing T.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
     <bib:Book rdf:about="urn:isbn:978-3-319-09464-9">
         <z:itemType>book</z:itemType>
         <bib:authors>
