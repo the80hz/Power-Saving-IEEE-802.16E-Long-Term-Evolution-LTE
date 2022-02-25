@@ -39,86 +39,11 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_39"/>
-        <link:link rdf:resource="#item_1"/>
-        <dc:title>Adaptive load-based and channel-aware power saving for non-real-time traffic in LTE</dc:title>
-        <dcterms:abstract>The popularity of handheld devices, which are usually powered by batteries, has made power saving an important and practical issue in recent years. Techniques of power saving for user devices using mobile communication systems such as WiMAX and LTE (Long-Term Evolution) are parts of the major focuses in the literature. In this paper, two revised schemes of the authors’ previously proposed power saving schemes for IEEE 802.16 are proposed to be applied in LTE. The proposed schemes, namely LTE-LBPS-Aggr and LTE-LBPS-Merge, estimate the input load by traffic measurement and the channel capacity by channel quality indicator (CQI) reports, calculate the length of the sleep cycle, and notify related user equipments (UEs) of the next radio-on time for receiving data. The difference between LTE-LBPS-Aggr and LTE-LBPS-Merge lies in the grouping of UEs for sleep scheduling. LTE-LBPS-Aggr treats all UEs in a group, while LTE-LBPS-Merge allows multiple groups of UEs in sleep scheduling. The simulation study shows that in comparison with standard-based mechanisms, the proposed schemes can achieve better power saving efficiency at the cost of moderate increase on delays and the signaling overhead.</dcterms:abstract>
-        <dc:date>12/2015</dc:date>
-        <z:language>en</z:language>
-        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-015-0435-x</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dcterms:dateSubmitted>2022-02-24 08:01:09</dcterms:dateSubmitted>
-        <bib:pages>215</bib:pages>
-    </bib:Article>
-    <bib:Journal rdf:about="urn:issn:1687-1499">
-        <prism:volume>2015</prism:volume>
-        <dc:title>EURASIP Journal on Wireless Communications and Networking</dc:title>
-        <dc:identifier>DOI 10.1186/s13638-015-0435-x</dc:identifier>
-        <prism:number>1</prism:number>
-        <dcterms:alternative>J Wireless Com Network</dcterms:alternative>
-        <dc:identifier>ISSN 1687-1499</dc:identifier>
-    </bib:Journal>
-    <bib:Memo rdf:about="#item_39">
-        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #212529; font-family: Roboto, sans-serif; font-size: 14.4px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Имитационное исследование показывает, что по сравнению со стандартными механизмами предлагаемые схемы могут повысить эффективность энергосбережения за счет умеренного увеличения задержек и накладных расходов на передачу сигналов.&lt;/span&gt;&lt;/p&gt;</rdf:value>
-    </bib:Memo>
-    <z:Attachment rdf:about="#item_1">
-        <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/1/Yang et al. - 2015 - Adaptive load-based and channel-aware power saving.pdf"/>
-        <dc:title>Yang et al. - 2015 - Adaptive load-based and channel-aware power saving.pdf</dc:title>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>https://jwcn-eurasipjournals.springeropen.com/track/pdf/10.1186/s13638-015-0435-x.pdf</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dcterms:dateSubmitted>2022-02-24 08:01:05</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
-        <link:type>application/pdf</link:type>
-    </z:Attachment>
-    <bib:Article rdf:about="#item_20">
-        <z:itemType>journalArticle</z:itemType>
-        <dcterms:isPartOf>
-            <bib:Journal>
-                <prism:volume>2015</prism:volume>
-                <dc:title>EURASIP Journal on Wireless Communications and Networking</dc:title>
-                <dc:identifier>DOI 10.1186/s13638-015-0435-x</dc:identifier>
-                <prism:number>1</prism:number>
-                <dcterms:alternative>J Wireless Com Network</dcterms:alternative>
-                <dc:identifier>ISSN 1687-1499</dc:identifier>
-            </bib:Journal>
-        </dcterms:isPartOf>
-        <bib:authors>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Yang</foaf:surname>
-                        <foaf:givenName>Chun-Chuan</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Chen</foaf:surname>
-                        <foaf:givenName>Jeng-Yueng</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Mai</foaf:surname>
-                        <foaf:givenName>Yi-Ting</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Liang</foaf:surname>
-                        <foaf:givenName>Ching-Hsiang</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </bib:authors>
-        <link:link rdf:resource="#item_21"/>
+        <dcterms:isReferencedBy rdf:resource="#item_69"/>
+        <link:link rdf:resource="#item_70"/>
+        <dc:subject>energysaving</dc:subject>
+        <dc:subject>powersaving</dc:subject>
+        <dc:subject>lte</dc:subject>
         <dc:title>Adaptive load-based and channel-aware power saving for non-real-time traffic in LTE</dc:title>
         <dcterms:abstract>The popularity of handheld devices, which are usually powered by batteries, has made power saving an important and practical issue in recent years. Techniques of power saving for user devices using mobile communication systems such as WiMAX and LTE (Long-Term Evolution) are parts of the major focuses in the literature. In this paper, two revised schemes of the authors’ previously proposed power saving schemes for IEEE 802.16 are proposed to be applied in LTE. The proposed schemes, namely LTE-LBPS-Aggr and LTE-LBPS-Merge, estimate the input load by traffic measurement and the channel capacity by channel quality indicator (CQI) reports, calculate the length of the sleep cycle, and notify related user equipments (UEs) of the next radio-on time for receiving data. The difference between LTE-LBPS-Aggr and LTE-LBPS-Merge lies in the grouping of UEs for sleep scheduling. LTE-LBPS-Aggr treats all UEs in a group, while LTE-LBPS-Merge allows multiple groups of UEs in sleep scheduling. The simulation study shows that in comparison with standard-based mechanisms, the proposed schemes can achieve better power saving efficiency at the cost of moderate increase on delays and the signaling overhead.</dcterms:abstract>
         <dc:date>12/2015</dc:date>
@@ -133,14 +58,29 @@
         <dc:description>Number: 1</dc:description>
         <bib:pages>215</bib:pages>
     </bib:Article>
-    <z:Attachment rdf:about="#item_21">
+    <bib:Journal rdf:about="urn:issn:1687-1499">
+        <prism:volume>2015</prism:volume>
+        <dc:title>EURASIP Journal on Wireless Communications and Networking</dc:title>
+        <dc:identifier>DOI 10.1186/s13638-015-0435-x</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>J Wireless Com Network</dcterms:alternative>
+        <dc:identifier>ISSN 1687-1499</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_69">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #212529; font-family: Roboto, sans-serif; font-size: 14.4px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Имитационное исследование показывает, что по сравнению со стандартными механизмами предлагаемые схемы могут повысить эффективность энергосбережения за счет умеренного увеличения задержек и накладных расходов на передачу сигналов.&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_70">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="C:\Users\andre\OneDrive\Documents\GitHub\My Library\files\1\Yang et al. - 2015 - Adaptive load-based and channel-aware power saving.pdf"/>
+        <rdf:resource rdf:resource="files/70/Yang et al. - 2015 - Adaptive load-based and channel-aware power saving.pdf"/>
         <dc:title>Yang et al. - 2015 - Adaptive load-based and channel-aware power saving.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://jwcn-eurasipjournals.springeropen.com/track/pdf/10.1186/s13638-015-0435-x.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dcterms:dateSubmitted>2022-02-24 08:01:05</dcterms:dateSubmitted>
-        <z:linkMode>2</z:linkMode>
+        <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
-        <dc:description>https://jwcn-eurasipjournals.springeropen.com/track/pdf/10.1186/s13638-015-0435-x.pdf</dc:description>
     </z:Attachment>
     <rdf:Description rdf:about="urn:isbn:978-1-4577-2053-6%20978-1-4577-2052-9%20978-1-4577-2051-2">
         <z:itemType>conferencePaper</z:itemType>
@@ -183,8 +123,11 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_53"/>
-        <link:link rdf:resource="#item_23"/>
+        <dcterms:isReferencedBy rdf:resource="#item_74"/>
+        <dc:subject>powersaving</dc:subject>
+        <dc:subject>lte</dc:subject>
+        <dc:subject>fixdrx</dc:subject>
+        <dc:subject>lteadvanced</dc:subject>
         <dc:title>Analysis of adjustable and fixed DRX mechanism for power saving in LTE/LTE-Advanced</dc:title>
         <dcterms:abstract>The 4G standard Long Term Evolution (LTE) has been developed for high-bandwidth mobile access for today’s data-heavy applications, consequently, a better experience for the end user. To extend the user equipment battery lifetime, plus further support various services and large amount of data transmissions, the 3GPP standards for LTE/LTE-Advanced has adopted discontinuous reception (DRX). However, there is a need to optimize the DRX parameters, so as to maximize power saving without incurring network re-entry and packet delays. In this paper, we take an overview of the ﬁxed frame DRX cycle and compare it against an adjustable DRX cycle of the LTE/LTEAdvanced power saving mechanism, by modelling the system with bursty packet data trafﬁc using a semi-Markov process. Based on the analytical model, we will show the trade-off relationship between the power saving and wake-up delay performance.</dcterms:abstract>
         <dc:date>06/2012</dc:date>
@@ -203,19 +146,10 @@
             </bib:Conference>
         </bib:presentedAt>
     </rdf:Description>
-    <bib:Memo rdf:about="#item_53">
+    <bib:Memo rdf:about="#item_74">
         <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #212529; font-family: Roboto, sans-serif; font-size: 14.4px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f5f8fa; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Стандарт G Long Term Evolution LTE был разработан для широкополосного мобильного доступа для современных приложений с большим объемом данных, что, следовательно, обеспечивает лучший опыт для конечного пользователя.&lt;/span&gt;&lt;/p&gt;</rdf:value>
     </bib:Memo>
-    <z:Attachment rdf:about="#item_23">
-        <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="C:\Users\andre\OneDrive\Documents\GitHub\My Library\files\3\Fowler et al. - 2012 - Analysis of adjustable and fixed DRX mechanism for.pdf"/>
-        <dc:title>Fowler et al. - 2012 - Analysis of adjustable and fixed DRX mechanism for.pdf</dc:title>
-        <dcterms:dateSubmitted>2022-02-24 08:04:23</dcterms:dateSubmitted>
-        <z:linkMode>2</z:linkMode>
-        <link:type>application/pdf</link:type>
-        <dc:description>https://www.diva-portal.org/smash/get/diva2:575836/FULLTEXT01.pdf</dc:description>
-    </z:Attachment>
-    <bib:Article rdf:about="#item_24">
+    <bib:Article rdf:about="#item_75">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
            <bib:Journal></bib:Journal>
@@ -248,26 +182,20 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_55"/>
-        <link:link rdf:resource="#item_25"/>
+        <dcterms:isReferencedBy rdf:resource="#item_76"/>
+        <dc:subject>lteadvanced</dc:subject>
+        <dc:subject>energy</dc:subject>
+        <dc:subject>3gpp</dc:subject>
+        <dc:subject>ieee802.16m</dc:subject>
         <dc:title>Energy Efﬁcient Operation of 3GPP LTE-Advanced and IEEE 802.16m Downlink Channel</dc:title>
         <dcterms:abstract>Currently, prominent 4G wireless networking technologies receive increasing attention from the research community. Represented by 3GPP LTE and IEEE 802.16 cellular standards, they support both stationary and mobile users. Due to the limited power budget of the latter, the energy efﬁcient behavior is becoming of primary importance. In order to save power and maximize battery lifetime (without recharging) of battery-driven mobile devices, either 4G cellular standard deﬁnes a power saving mode. It is termed Discontinuous Reception (DRX) by 3GPP LTE and Sleep Mode by IEEE 802.16. In this paper, we compare energy efﬁcient properties of the two modes when users receive various trafﬁc.</dcterms:abstract>
         <z:language>en</z:language>
         <z:libraryCatalog>Zotero</z:libraryCatalog>
         <bib:pages>5</bib:pages>
     </bib:Article>
-    <bib:Memo rdf:about="#item_55">
+    <bib:Memo rdf:about="#item_76">
         <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #212529; font-family: Roboto, sans-serif; font-size: 14.4px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f5f8fa; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;В целях экономии энергии и максимального срока службы батареи без подзарядки мобильных устройств с батарейным питанием любой стандарт сотовой связи G определяет режим энергосбережения.&lt;/span&gt;&lt;/p&gt;</rdf:value>
     </bib:Memo>
-    <z:Attachment rdf:about="#item_25">
-        <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="C:\Users\andre\OneDrive\Documents\GitHub\My Library\files\5\Anisimov et al. - Energy Efﬁcient Operation of 3GPP LTE-Advanced and.pdf"/>
-        <dc:title>Anisimov et al. - Energy Efﬁcient Operation of 3GPP LTE-Advanced and.pdf</dc:title>
-        <dcterms:dateSubmitted>2022-02-24 08:04:48</dcterms:dateSubmitted>
-        <z:linkMode>2</z:linkMode>
-        <link:type>application/pdf</link:type>
-        <dc:description>http://andrey-turlikov.narod.ru/conferences/2011_Energy_Efficient_Operation_of_3GPP_LTE-Advanced.pdf</dc:description>
-    </z:Attachment>
     <rdf:Description rdf:about="urn:isbn:978-1-4673-1363-6%20978-1-4673-1361-2%20978-1-4673-1362-9">
         <z:itemType>conferencePaper</z:itemType>
         <dcterms:isPartOf>
@@ -306,8 +234,10 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_56"/>
-        <link:link rdf:resource="#item_27"/>
+        <dcterms:isReferencedBy rdf:resource="#item_78"/>
+        <dc:subject>powersaving</dc:subject>
+        <dc:subject>lte</dc:subject>
+        <dc:subject>energydelay</dc:subject>
         <dc:title>Energy-delay tradeoff analysis and enhancement in LTE power-saving mechanisms</dc:title>
         <dcterms:abstract>We propose a modified power-saving mechanism (PSM) that reversely applies the state transition of legacy LTE PSM by considering the attributes of network propagation delay. We analyze the PSM with respect to the energy consumption and the buffering delay, and characterize them as a simple energydelay tradeoff (EDT) curve according to the operational parameters. The resulting EDT curves clearly show that the proposed PSM enhances the legacy PSM in various network environments and also guide to select an optimal parameter for maximizing the energy conservation while ensuring the quality of service.</dcterms:abstract>
         <dc:date>1/2013</dc:date>
@@ -326,18 +256,9 @@
             </bib:Conference>
         </bib:presentedAt>
     </rdf:Description>
-    <bib:Memo rdf:about="#item_56">
+    <bib:Memo rdf:about="#item_78">
         <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #212529; font-family: Roboto, sans-serif; font-size: 14.4px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f5f8fa; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Мы анализируем PSM в отношении энергопотребления и задержки буферизации и характеризуем их как простую кривую компромисса между затратами энергии EDT в соответствии с рабочими параметрами&lt;/span&gt;&lt;/p&gt;</rdf:value>
     </bib:Memo>
-    <z:Attachment rdf:about="#item_27">
-        <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="C:\Users\andre\OneDrive\Documents\GitHub\My Library\files\7\Wonjae Shin et al. - 2013 - Energy-delay tradeoff analysis and enhancement in .pdf"/>
-        <dc:title>Wonjae Shin et al. - 2013 - Energy-delay tradeoff analysis and enhancement in .pdf</dc:title>
-        <dcterms:dateSubmitted>2022-02-24 08:05:02</dcterms:dateSubmitted>
-        <z:linkMode>2</z:linkMode>
-        <link:type>application/pdf</link:type>
-        <dc:description>http://sons.hknu.ac.kr/doc/ICCE_LTE_PSM.pdf</dc:description>
-    </z:Attachment>
     <bib:Article rdf:about="http://link.springer.com/10.1007/s11277-014-1614-5">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf rdf:resource="urn:issn:0929-6212,%201572-834X"/>
@@ -369,8 +290,10 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_58"/>
-        <link:link rdf:resource="#item_29"/>
+        <dcterms:isReferencedBy rdf:resource="#item_80"/>
+        <dc:subject>powersaving</dc:subject>
+        <dc:subject>ieee802.16j</dc:subject>
+        <dc:subject>networks</dc:subject>
         <dc:title>Load-Based Power Saving in IEEE 802.16j Multi-Hop Relay Networks</dc:title>
         <dcterms:abstract>In this paper, our previous work of Load-Based Power Saving (LBPS) for energy saving at the user side is extended to support integrated sleep scheduling for BS, RS, and MSS in the IEEE 802.16j Multi-Hop Relay Network. Topology-dependent time frame structure is adopted in our design to reduce the transmission delay in the relay network, in which the number of relay zone (for transmission over the relay link) depends on the hop count of RS in the network. Focused on non-real-time trafﬁc, two LBPS schemes, namely LBPS-Aggr-MR and LBPS-Merge-MR, are proposed. Simulation study shows the proposed LBPS schemes signiﬁcantly outperform the standard Type I PSC in terms of power saving efﬁciency.</dcterms:abstract>
         <dc:date>8/2014</dc:date>
@@ -393,19 +316,10 @@
         <dcterms:alternative>Wireless Pers Commun</dcterms:alternative>
         <dc:identifier>ISSN 0929-6212, 1572-834X</dc:identifier>
     </bib:Journal>
-    <bib:Memo rdf:about="#item_58">
+    <bib:Memo rdf:about="#item_80">
         <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #212529; font-family: Roboto, sans-serif; font-size: 14.4px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f5f8fa; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Имитационное исследование показывает, что предлагаемые схемы LBPS значительно превосходят стандартные PSC типа I с точки зрения эффективности энергосбережения&lt;/span&gt;&lt;/p&gt;</rdf:value>
     </bib:Memo>
-    <z:Attachment rdf:about="#item_29">
-        <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="C:\Users\andre\OneDrive\Documents\GitHub\My Library\files\9\Yang et al. - 2014 - Load-Based Power Saving in IEEE 802.16j Multi-Hop .pdf"/>
-        <dc:title>Yang et al. - 2014 - Load-Based Power Saving in IEEE 802.16j Multi-Hop .pdf</dc:title>
-        <dcterms:dateSubmitted>2022-02-24 08:05:32</dcterms:dateSubmitted>
-        <z:linkMode>2</z:linkMode>
-        <link:type>application/pdf</link:type>
-        <dc:description>http://erdos.csie.ncnu.edu.tw/~ccyang/Publication/WPC2014.pdf</dc:description>
-    </z:Attachment>
-    <bib:Book rdf:about="#item_30">
+    <bib:Book rdf:about="#item_81">
         <z:itemType>book</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -429,18 +343,19 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_54"/>
-        <link:link rdf:resource="#item_31"/>
-        <link:link rdf:resource="#item_32"/>
+        <dcterms:isReferencedBy rdf:resource="#item_82"/>
+        <link:link rdf:resource="#item_83"/>
+        <dc:subject>802.16e</dc:subject>
+        <dc:subject>comptech</dc:subject>
         <dc:title>COMPENSATION THE NOISY CHANNEL OF 802.16E SYSTEM IN DOWNLINK USING CoMP TECHNIQUE</dc:title>
         <dcterms:abstract>In general, a high-noise channel is one of the most serious problems facing systems. It is resulting in exhaustion of system resources with minimal performance and addressing the problem of limited data transmission. 802.16e system is one of the systems experiencing this problem. The signal strength of the user is affected at the edge of the cell more than the rest of the users for several reasons, including distance from the base station and the interference of neighbouring cells and similar cells (co-channels). In this research, it is suggested to use the Coordinated Multipoint (CoMP) technique in the downlink to reduce the effect of noise (which is represented by interference) and to increase the signal strength of the participants in the cell edge in particular, as well as the participants within the cell in general. The results that collected using OPNET modeller are explained that the CoMP algorithm offered to support the system by decreasing the lost bytes. For instance, at 2MB file size, the CoMP is reduced the lost bytes about 63.5% as compared without CoMP. As a consequent, the CoMP algorithm will support the resources of 802.16e system as a term of traffic without adding any physical tools at user station or base stations.</dcterms:abstract>
         <dc:date>Апрель 1, 2020</dc:date>
         <z:libraryCatalog>ResearchGate</z:libraryCatalog>
     </bib:Book>
-    <bib:Memo rdf:about="#item_54">
+    <bib:Memo rdf:about="#item_82">
         <rdf:value>&lt;div class=&quot;mt-2&quot; style=&quot;box-sizing: border-box; margin-top: 0.5rem !important;&quot;&gt;Результаты, полученные с помощью OPNET modeller, объясняются тем, что алгоритм CoMP предложил поддерживать систему за счет уменьшения потерянных байтов.&lt;/div&gt;</rdf:value>
     </bib:Memo>
-    <z:Attachment rdf:about="#item_31">
+    <z:Attachment rdf:about="#item_83">
         <z:itemType>attachment</z:itemType>
         <dc:title>ResearchGate Link</dc:title>
         <dc:identifier>
@@ -450,13 +365,6 @@
         </dc:identifier>
         <dcterms:dateSubmitted>2022-02-24 08:06:18</dcterms:dateSubmitted>
         <z:linkMode>3</z:linkMode>
-    </z:Attachment>
-    <z:Attachment rdf:about="#item_32">
-        <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="C:\Users\andre\OneDrive\Documents\GitHub\My Library\files\13\Alsharbaty et al. - 2020 - COMPENSATION THE NOISY CHANNEL OF 802.16E SYSTEM I.pdf"/>
-        <dc:title>Alsharbaty et al. - 2020 - COMPENSATION THE NOISY CHANNEL OF 802.16E SYSTEM I.pdf</dc:title>
-        <z:linkMode>2</z:linkMode>
-        <link:type>application/pdf</link:type>
     </z:Attachment>
     <bib:Article rdf:about="http://ieeexplore.ieee.org/document/7123569/">
         <z:itemType>journalArticle</z:itemType>
@@ -489,8 +397,10 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_59"/>
-        <link:link rdf:resource="#item_34"/>
+        <dcterms:isReferencedBy rdf:resource="#item_85"/>
+        <dc:subject>ltea</dc:subject>
+        <dc:subject>powereff</dc:subject>
+        <dc:subject>deliverymethod</dc:subject>
         <dc:title>QoE Power-Efficient Multimedia Delivery Method for LTE-A</dc:title>
         <dcterms:abstract>The fastest growing of multimedia services over future wireless communication system demand more network resources, efﬁcient delivery of multimedia service with high users satisfaction, and power optimization of User Equipments (UEs). The resources and power optimization are signiﬁcant in future mobile computing systems, because emerging multimedia services consume more resources and power. The 4G standard of LTE-A wireless system has adopted the Discontinuous Reception (DRX) method to extend and optimize the UE battery life, while there is no standard scheduling method to distribute the radio resources among the UE. This paper presents a downlink scheduler, i.e. Quality of Experience (QoE) Power Efﬁcient Method (QEPEM) for LTE-A, which efﬁciently allocates the radio resources and optimizes the use of UE power using the DRX mechanism. We investigates how the different duration of DRX Light and Deep Sleep cycle inﬂuences the QoS and QoE of end users, using VoIP over the LTE-A. The QEPEM is evaluated with the traditional methods, in terms of System Throughput, Fairness Index, Packet Loss Rate, and Packet Delay. The QEPEM measures the user’s QoE, and feedback to eNodeB for scheduling decisions along with other important parameters. Our proposed method reduces the packet delay, packet loss, and increases the fairness and UE’s power saving with high users satisfaction.</dcterms:abstract>
         <dc:date>6/2016</dc:date>
@@ -513,116 +423,10 @@
         <dcterms:alternative>IEEE Systems Journal</dcterms:alternative>
         <dc:identifier>ISSN 1932-8184, 1937-9234, 2373-7816</dc:identifier>
     </bib:Journal>
-    <bib:Memo rdf:about="#item_59">
+    <bib:Memo rdf:about="#item_85">
         <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #212529; font-family: Roboto, sans-serif; font-size: 14.4px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f5f8fa; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;QEPEM измеряет QoE пользователя и обратную связь с eNodeB для принятия решений о планировании наряду с другими важными параметрами.&lt;/span&gt;&lt;/p&gt;</rdf:value>
     </bib:Memo>
-    <z:Attachment rdf:about="#item_34">
-        <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="C:\Users\andre\OneDrive\Documents\GitHub\My Library\files\14\Mushtaq et al. - 2016 - QoE Power-Efficient Multimedia Delivery Method for.pdf"/>
-        <dc:title>Mushtaq et al. - 2016 - QoE Power-Efficient Multimedia Delivery Method for.pdf</dc:title>
-        <dcterms:dateSubmitted>2022-02-24 08:07:09</dcterms:dateSubmitted>
-        <z:linkMode>2</z:linkMode>
-        <link:type>application/pdf</link:type>
-        <dc:description>https://www.diva-portal.org/smash/get/diva2:847984/FULLTEXT03</dc:description>
-    </z:Attachment>
-    <bib:BookSection rdf:about="urn:isbn:978-0-470-74011-8%20978-0-470-69680-4">
-        <z:itemType>bookSection</z:itemType>
-        <dcterms:isPartOf>
-            <bib:Book>
-                <dc:identifier>ISBN 978-0-470-74011-8 978-0-470-69680-4</dc:identifier>
-                <dc:title>WiMAX Evolution</dc:title>
-            </bib:Book>
-        </dcterms:isPartOf>
-        <dc:publisher>
-            <foaf:Organization>
-                <vcard:adr>
-                    <vcard:Address>
-                       <vcard:locality>Chichester, UK</vcard:locality>
-                    </vcard:Address>
-                </vcard:adr>
-                <foaf:name>John Wiley &amp; Sons, Ltd</foaf:name>
-            </foaf:Organization>
-        </dc:publisher>
-        <bib:authors>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Neves</foaf:surname>
-                        <foaf:givenName>Pedro</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Pentikousis</foaf:surname>
-                        <foaf:givenName>Kostas</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Sargento</foaf:surname>
-                        <foaf:givenName>Susana</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Curado</foaf:surname>
-                        <foaf:givenName>Marlia</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Simes</foaf:surname>
-                        <foaf:givenName>Paulo</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Fontes</foaf:surname>
-                        <foaf:givenName>Francisco</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </bib:authors>
-        <bib:editors>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Katz</foaf:surname>
-                        <foaf:givenName>Marcos D.</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Fitzek</foaf:surname>
-                        <foaf:givenName>Frank H.P.</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </bib:editors>
-        <link:link rdf:resource="#item_36"/>
-        <dc:title>Novel WiMAX Scenarios for Future Broadband Wireless Access Networks</dc:title>
-        <dc:date>2009-01-16</dc:date>
-        <z:language>en</z:language>
-        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>https://onlinelibrary.wiley.com/doi/10.1002/9780470740118.ch3</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dcterms:dateSubmitted>2022-02-24 08:07:25</dcterms:dateSubmitted>
-        <dc:description>DOI: 10.1002/9780470740118.ch3</dc:description>
-        <bib:pages>45-67</bib:pages>
-    </bib:BookSection>
-    <z:Attachment rdf:about="#item_36">
-        <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="C:\Users\andre\OneDrive\Documents\GitHub\My Library\files\16\Neves et al. - 2009 - Novel WiMAX Scenarios for Future Broadband Wireles.pdf"/>
-        <dc:title>Neves et al. - 2009 - Novel WiMAX Scenarios for Future Broadband Wireles.pdf</dc:title>
-        <dcterms:dateSubmitted>2022-02-24 08:07:22</dcterms:dateSubmitted>
-        <z:linkMode>2</z:linkMode>
-        <link:type>application/pdf</link:type>
-        <dc:description>https://d1wqtxts1xzle7.cloudfront.net/40046957/09e4150cf356ac5384000000.pdf20151115-68247-1jtyqn6-with-cover-page-v2.pdf?Expires=1645693619&amp;Signature=YefmPdyUTUEQ8rBITq-eiI4ynj1o8Znm6QvDNhpZC2aDx1fn7D0PBjEgkkLSZTwE5WoMK6m3ZyFevNaoWOJmp5O4GxFwLRyfqvopX5xI1Vjz1rFppcqLUXDmEg28Z3Y6hkQZrHxTi4PXhVvx9ycHCKMmICaMcQItONhiutFQQAoQtq43fX0vjZQbj2Eo-ssYkJCcqfyoqII6yZ85tOlU357Rocg5HewWanaZobURip6fIUtfPmPs3k6wPUX9mLYzbGu1duyl745~rHCTheHqFyn~7ORAmS2rJE9WiKih2RmMRxNFKSST~eH0GiuxclG5g2bHl3I9uhkDvqWFuEbRNA__&amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=34</dc:description>
-    </z:Attachment>
-    <bib:Article rdf:about="#item_37">
+    <bib:Article rdf:about="#item_87">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
             <bib:Journal>
@@ -645,8 +449,10 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_57"/>
-        <link:link rdf:resource="#item_38"/>
+        <dcterms:isReferencedBy rdf:resource="#item_88"/>
+        <dc:subject>problems</dc:subject>
+        <dc:subject>balance</dc:subject>
+        <dc:subject>ltea</dc:subject>
         <dc:title>Formulating an Optimization Problem by Balancing Tradeoff between Latency and Power Saving in LTE - A Network</dc:title>
         <dcterms:abstract>The neoteric evolution of long term evolution (LTE) has helped us to acquire data rate up to 1Gbps but at the expense of Power Hunger amongst User Equipments (UE).Hence there is a need to optimize the usage of battery.Discontinuous reception (DRX) is a method that conserves the battery power but at the expense of increase in latency. This is the reason why distinctive optimizations are executed in the DRX model for different types of traffic modes but in this research an effort has been made to make the DRX mechanism slightly more adaptive by instigating a unique model for all the traffic modes. In this analysis on the basis of traffic intensity the UE in ON state will decide whether to receive the packets in the same states or switch to active state in case of high traffic intensity to minimize the latency.Further another parameter has been introduced i.e. channel strength; how it varies when the distance between UE and base station changes has been illustrated and keeping that into account appropriate modifications have been inducted into the design to increase the Quality of Service(QoS) while saving the power.</dcterms:abstract>
         <dc:date>2017</dc:date>
@@ -655,18 +461,9 @@
         <dc:description>Number: 18</dc:description>
         <bib:pages>8</bib:pages>
     </bib:Article>
-    <bib:Memo rdf:about="#item_57">
+    <bib:Memo rdf:about="#item_88">
         <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #212529; font-family: Roboto, sans-serif; font-size: 14.4px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f5f8fa; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Неотерическая эволюция long term evolution LTE помогла нам достичь скорости передачи данных до Гбит с, но за счет нехватки энергии среди пользовательского оборудования UE &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</rdf:value>
     </bib:Memo>
-    <z:Attachment rdf:about="#item_38">
-        <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="C:\Users\andre\OneDrive\Documents\GitHub\My Library\files\18\Bhattacharyya and Singh - 2017 - Formulating an Optimization Problem by Balancing T.pdf"/>
-        <dc:title>Bhattacharyya and Singh - 2017 - Formulating an Optimization Problem by Balancing T.pdf</dc:title>
-        <dcterms:dateSubmitted>2022-02-24 08:07:51</dcterms:dateSubmitted>
-        <z:linkMode>2</z:linkMode>
-        <link:type>application/pdf</link:type>
-        <dc:description>https://www.ripublication.com/ijaer17/ijaerv12n18_110.pdf</dc:description>
-    </z:Attachment>
     <bib:Book rdf:about="urn:isbn:978-3-319-09464-9">
         <z:itemType>book</z:itemType>
         <bib:authors>
@@ -691,9 +488,12 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_64"/>
-        <link:link rdf:resource="#item_62"/>
-        <link:link rdf:resource="#item_63"/>
+        <dcterms:isReferencedBy rdf:resource="#item_90"/>
+        <link:link rdf:resource="#item_91"/>
+        <link:link rdf:resource="#item_92"/>
+        <dc:subject>infoscience</dc:subject>
+        <dc:subject>2014</dc:subject>
+        <dc:subject>computer</dc:subject>
         <dc:title>Information Sciences and Systems 2014: Proceedings of the 29th International Symposium on Computer and Information Sciences</dc:title>
         <dcterms:abstract>The 29th Annual Symposium on Computer and Information Sciences, held in Krakow under the auspices of the Institute of Theoretical and Applied Informatics of the Polish Academy of Sciences, pursues the tradition of a broad-based sym- posium presenting recent advances in scientific and technical aspects of Information Technology.
 Notable in this year’s event are the presence of new areas such as Quantum Computing, and the greater emphasis on Network Security via a session (as last year) that presents some of the results from the EU FP7 Project NEMESYS.
@@ -703,10 +503,10 @@ All papers included in the proceedings have undergone an evaluation by at least 
         <z:libraryCatalog>ResearchGate</z:libraryCatalog>
         <dc:identifier>ISBN 978-3-319-09464-9</dc:identifier>
     </bib:Book>
-    <bib:Memo rdf:about="#item_64">
+    <bib:Memo rdf:about="#item_90">
         <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #212529; font-family: Roboto, sans-serif; font-size: 14.4px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f5f8fa; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Примечательным событием этого года является присутствие новых областей, таких как квантовые вычисления, и больший акцент на сетевой безопасности в рамках сессии как и в прошлом году , на которой представлены некоторые результаты проекта ЕС FP NEMESYS.&lt;/span&gt;&lt;/p&gt;</rdf:value>
     </bib:Memo>
-    <z:Attachment rdf:about="#item_62">
+    <z:Attachment rdf:about="#item_91">
         <z:itemType>attachment</z:itemType>
         <dc:title>ResearchGate Link</dc:title>
         <dc:identifier>
@@ -717,23 +517,115 @@ All papers included in the proceedings have undergone an evaluation by at least 
         <dcterms:dateSubmitted>2022-02-25 09:21:30</dcterms:dateSubmitted>
         <z:linkMode>3</z:linkMode>
     </z:Attachment>
-    <z:Attachment rdf:about="#item_63">
+    <z:Attachment rdf:about="#item_92">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/63/Czachórski et al. - 2014 - Information Sciences and Systems 2014 Proceedings.pdf"/>
+        <rdf:resource rdf:resource="files/92/Czachórski et al. - 2014 - Information Sciences and Systems 2014 Proceedings.pdf"/>
         <dc:title>Czachórski et al. - 2014 - Information Sciences and Systems 2014 Proceedings.pdf</dc:title>
         <link:type>application/pdf</link:type>
     </z:Attachment>
-    <z:Collection rdf:about="#collection_3">
-        <dc:title>laba1</dc:title>
-        <dcterms:hasPart rdf:resource="#item_20"/>
-        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4577-2053-6%20978-1-4577-2052-9%20978-1-4577-2051-2"/>
-        <dcterms:hasPart rdf:resource="#item_24"/>
-        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4673-1363-6%20978-1-4673-1361-2%20978-1-4673-1362-9"/>
+    <rdf:Description rdf:about="urn:isbn:978-1-4244-7551-3">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4244-7551-3</dc:identifier>
+                <dc:title>2010 Eighth International Conference on Privacy, Security and Trust</dc:title>
+                <dc:identifier>DOI 10.1109/PST.2010.5593244</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ottawa, Canada</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seddigh</foaf:surname>
+                        <foaf:givenName>N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nandy</foaf:surname>
+                        <foaf:givenName>B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Makkar</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beaumont</foaf:surname>
+                        <foaf:givenName>J.F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_95"/>
+        <link:link rdf:resource="#item_93"/>
+        <dc:subject>security</dc:subject>
+        <dc:subject>4G</dc:subject>
+        <dc:subject>wireless</dc:subject>
+        <dc:title>Security advances and challenges in 4G wireless networks</dc:title>
+        <dcterms:abstract>This paper presents a study of security advances and challenges associated with emergent 4G wireless technologies. The paper makes a number of contributions to the field. First, it studies the security standards evolution across different generations of wireless standards. Second, the security-related standards, architecture and design for the LTE and WiMAX technologies are analyzed. Third, security issues and vulnerabilities present in the above 4G standards are discussed. Finally, we point to potential areas for future vulnerabilities and evaluate areas in 4G security which warrant attention and future work by the research and advanced technology industry.</dcterms:abstract>
+        <dc:date>08/2010</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/5593244/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-25 10:19:49</dcterms:dateSubmitted>
+        <bib:pages>62-71</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2010 Eighth Annual International Conference on Privacy, Security and Trust (PST)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_95">
+        <rdf:value>&lt;p&gt;&lt;span style=&quot;color: #212529; font-family: Roboto, sans-serif; font-size: 14.4px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f5f8fa; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;обсуждаются проблемы безопасности и уязвимости, присутствующие в вышеупомянутых стандартах G. Наконец, мы указываем на потенциальные области будущих уязвимостей и оцениваем области безопасности G, которые заслуживают внимания и будущей работы со стороны индустрии исследований и передовых технологий.&lt;/span&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_93">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/93/Seddigh et al. - 2010 - Security advances and challenges in 4G wireless ne.pdf"/>
+        <dc:title>Seddigh et al. - 2010 - Security advances and challenges in 4G wireless ne.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://web.archive.org/web/20170809123659id_/http://gonet1.qcwireless.net/pst_paper_2010/papers/p62-seddigh.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-25 10:19:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_14">
+        <dc:title>IEEE</dc:title>
+        <dcterms:hasPart rdf:resource="#item_75"/>
         <dcterms:hasPart rdf:resource="http://link.springer.com/10.1007/s11277-014-1614-5"/>
-        <dcterms:hasPart rdf:resource="#item_30"/>
+        <dcterms:hasPart rdf:resource="#item_81"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_13">
+        <dc:title>LTE</dc:title>
+        <dcterms:hasPart rdf:resource="https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-015-0435-x"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4577-2053-6%20978-1-4577-2052-9%20978-1-4577-2051-2"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4673-1363-6%20978-1-4673-1361-2%20978-1-4673-1362-9"/>
         <dcterms:hasPart rdf:resource="http://ieeexplore.ieee.org/document/7123569/"/>
-        <dcterms:hasPart rdf:resource="urn:isbn:978-0-470-74011-8%20978-0-470-69680-4"/>
-        <dcterms:hasPart rdf:resource="#item_37"/>
+        <dcterms:hasPart rdf:resource="#item_87"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_15">
+        <dc:title>Others</dc:title>
         <dcterms:hasPart rdf:resource="urn:isbn:978-3-319-09464-9"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4244-7551-3"/>
     </z:Collection>
 </rdf:RDF>
